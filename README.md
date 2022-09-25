@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Sobre o Repositório
 
-Things you may want to cover:
+Este repositório abrange o Exercício Programa de Engenharia de Sistemas da Informação ministrada pelo Prof. Dr. Daniel Cordeiro.
 
-* Ruby version
+Os integrantes do grupo são os alunos de bacharel em Sistemas da Informação - EACH USP:
 
-* System dependencies
+    Gabriel Assenço
+    Reinaldo Neto
+    Stefano Almeida
+    Vinícius Yosimoto
+    Vinícius Zacarias
 
-* Configuration
+O foco de ação de nosso software será....................
 
-* Database creation
+## Badges
 
-* Database initialization
 
-* How to run the test suite
+## Links
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+## Versões de cada ferramenta utilizada'
